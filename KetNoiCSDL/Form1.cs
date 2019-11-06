@@ -27,7 +27,7 @@ namespace KetNoiCSDL
             if(conn.State==ConnectionState.Open)
             {
 
-                MessageBox.Show("ket noi thanh cong haha neu neu11 ");
+                MessageBox.Show("ket noi thanh cong haha neu ");
 
             }
             else
