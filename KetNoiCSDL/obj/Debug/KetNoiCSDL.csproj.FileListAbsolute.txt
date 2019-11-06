@@ -1,0 +1,10 @@
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe.config
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\bin\Debug\KetNoiCSDL.exe
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\bin\Debug\KetNoiCSDL.pdb
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\obj\Debug\KetNoiCSDL.csprojAssemblyReference.cache
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\obj\Debug\KetNoiCSDL.Form1.resources
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\obj\Debug\KetNoiCSDL.Properties.Resources.resources
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.GenerateResource.cache
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\obj\Debug\KetNoiCSDL.csproj.CoreCompileInputs.cache
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\obj\Debug\KetNoiCSDL.exe
+D:\Tài Liệu\NNLT_2\ThucHanh_Lop\TH_LOp_c_shap\KetNoiCSDL\obj\Debug\KetNoiCSDL.pdb
